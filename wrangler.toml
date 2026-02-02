@@ -1,0 +1,9 @@
+name = "elvistapfumanei-website"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "out"
+
+[env.production]
+name = "elvistapfumanei-website"
+
+[env.preview]
+name = "elvistapfumanei-website-preview"
