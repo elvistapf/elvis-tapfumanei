@@ -77,6 +77,9 @@ export function HeroSection() {
             <MagneticButton href="/work" variant="primary" size="lg">
               Explore My Work
             </MagneticButton>
+            <MagneticButton href="/cv" variant="outline" size="lg">
+              Download CV
+            </MagneticButton>
             <MagneticButton href="/writing" variant="outline" size="lg">
               Read My Writing
             </MagneticButton>
