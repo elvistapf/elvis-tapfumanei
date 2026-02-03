@@ -128,7 +128,7 @@ export const cvData = {
     {
       name: "Orbitrain | Founder & Technical Lead",
       status: "MVP Launched | Beta Testing with 3 pilot customers (fintech, retail, insurance)",
-      description: "Intelligent Decision Support Platform processing 50,000+ daily customer interactions with 99.8% uptime. Implemented smart routing engine using ML models achieving sub-200ms response times and 92% routing accuracy. Integrated Google Gemini API, OpenAI API, and AssemblyAI services for call scoring and sentiment analysis.",
+      description: "Decision Support Platform for Customer Operations processing 50,000+ daily customer interactions with 99.8% uptime. Implemented smart routing engine using ML models achieving sub-200ms response times and 92% routing accuracy. Integrated Google Gemini API, OpenAI API, and AssemblyAI services for call scoring and sentiment analysis.",
       impact: "Pilot customers reporting 40% reduction in QA costs and 25% improvement in agent performance"
     },
     {
