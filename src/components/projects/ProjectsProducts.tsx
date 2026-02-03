@@ -25,7 +25,7 @@ const products: Product[] = [
     description: "A decision support platform that uses AI to automatically score and intelligently route customer interactions (calls, transcripts) to the right people.",
     logo: "/orbitrain-full-logo.png",
     color: "terracotta",
-    status: "In Development",
+    status: "MVP Launched | Beta Testing",
     features: [
       "Smart routing engine for customer interactions",
       "Automatic call and transcript scoring",
@@ -42,7 +42,7 @@ const products: Product[] = [
     description: "A next-generation business education platform that goes beyond traditional simulations. An immersive, AI-powered learning environment.",
     logo: "/sc-logo-white.png",
     color: "sage",
-    status: "In Development",
+    status: "Alpha Development | Target Launch Q3 2025",
     features: [
       "Generative Economic Model",
       "AI Mentor for personalised guidance",
