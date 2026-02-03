@@ -257,6 +257,13 @@ export function FeaturedVenturesSection() {
             </motion.div>
           ))}
         </div>
+        
+        {/* CTA for Professional Projects */}
+        <div className="mt-12 text-center">
+          <Button href="/work" variant="outline">
+            View All Professional Projects
+          </Button>
+        </div>
       </div>
     </Section>
   );
